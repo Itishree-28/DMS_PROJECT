@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     "hrms",
     "chat",
     "documents",
+    "vendor",
+    "product",
 ]
 
 MIDDLEWARE = [
